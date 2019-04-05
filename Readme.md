@@ -3,7 +3,7 @@
 
 * [Employees.cs](./CS/ConnectingToHierarchicalData/Employees.cs) (VB: [Employees.vb](./VB/ConnectingToHierarchicalData/Employees.vb))
 * [MainPage.xaml](./CS/ConnectingToHierarchicalData/MainPage.xaml) (VB: [MainPage.xaml](./VB/ConnectingToHierarchicalData/MainPage.xaml))
-* [MainPage.xaml.cs](./CS/ConnectingToHierarchicalData/MainPage.xaml.cs) (VB: [MainPage.xaml](./VB/ConnectingToHierarchicalData/MainPage.xaml))
+* [MainPage.xaml.cs](./CS/ConnectingToHierarchicalData/MainPage.xaml.cs) (VB: [MainPage.xaml.vb](./VB/ConnectingToHierarchicalData/MainPage.xaml.vb))
 <!-- default file list end -->
 # How to: Connect to a Data Source with Hierarchical Data
 
